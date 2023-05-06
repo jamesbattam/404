@@ -1,0 +1,214 @@
+.lottie-animation {
+  width: 300px;
+}
+
+.lottie-animation._2 {
+  width: 100vw;
+}
+
+.body {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #000;
+  -webkit-perspective: 2000px;
+  perspective: 2000px;
+}
+
+.lottie-animation-2 {
+  width: 100vw;
+}
+
+.div-block {
+  width: 800px;
+  padding: 0px;
+  background-color: #ffa2a2;
+}
+
+.lottie-animation-3 {
+  background-color: #522c2c;
+}
+
+.lottie-animation-4 {
+  width: 50vw;
+}
+
+.html-embed {
+  width: 100vw;
+  height: 100vh;
+}
+
+.lottie-animation-5 {
+  width: 500px;
+}
+
+.content {
+  width: 100vw;
+  height: 100vh;
+}
+
+.canvas {
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: auto;
+  width: 100vw;
+  height: 100vh;
+  margin-top: 0px;
+}
+
+.heading {
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 25px;
+  margin: 0px auto 35px;
+  font-family: 'Shapiro 96 inclined wide', sans-serif;
+  color: #fff;
+  font-size: 6em;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.heading._22 {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0%;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+  font-family: 'Shapiro 85 super extd', sans-serif;
+  font-size: 2em;
+  font-weight: 900;
+  text-transform: capitalize;
+}
+
+.image {
+  position: fixed;
+  left: auto;
+  top: 30px;
+  right: auto;
+  bottom: auto;
+  width: 100px;
+}
+
+@media screen and (max-width: 767px) {
+  .heading {
+    margin-bottom: 10px;
+    font-size: 4em;
+  }
+
+  .heading._22 {
+    font-size: 1.5em;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .heading {
+    display: block;
+    margin-bottom: 0px;
+    font-size: 2em;
+  }
+
+  .heading._22 {
+    display: block;
+    font-size: 1em;
+  }
+
+  .image {
+    width: 60px;
+  }
+}
+
+@font-face {
+  font-family: 'Shapiro 85 super wide';
+  src: url('../fonts/Shapiro-85-Super-Heavy-Wide.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Shapiro 95 super';
+  src: url('../fonts/Shapiro-95-Super.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Shapiro 95 super wide';
+  src: url('../fonts/Shapiro-95-Super-Wide.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Shapiro 85 super extd';
+  src: url('../fonts/Shapiro-85-Super-Heavy-Extd.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Shapiro 95 super extd';
+  src: url('../fonts/Shapiro-95-Super-Extd.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Shapiro 96 inclined wide';
+  src: url('../fonts/Shapiro-96-Inclined-Wide.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Shapiro 105 max extd';
+  src: url('../fonts/Shapiro-105-Max-Extd.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Shapiro 116 inclined extd';
+  src: url('../fonts/Shapiro-116-Inclined-Extd.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Shapiro 97 air extd';
+  src: url('../fonts/Shapiro-97-Air-Extd.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Shapiro 85 super';
+  src: url('../fonts/Shapiro-85-Super-Heavy.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Shapiro 115 plus extd';
+  src: url('../fonts/Shapiro-115-Plus-Extd.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
