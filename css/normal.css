@@ -78,7 +78,7 @@
   bottom: 25px;
   margin: 0px auto 35px;
   font-family: 'Shapiro 96 inclined wide', sans-serif;
-  color: #fff;
+  color: #000000;
   font-size: 6em;
   font-weight: 400;
   text-transform: uppercase;
@@ -95,6 +95,7 @@
   font-size: 2em;
   font-weight: 900;
   text-transform: capitalize;
+  color: #000000;
 }
 
 .image {
